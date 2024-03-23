@@ -19,7 +19,7 @@ Attaching this board over parallel to the appropriate Honda radio with correct p
 
 ## What you should build instead of this
 
-Seriously don't build this. By the time this board is printed and you've ordered components it comes up to like $150. How are you even going to use the CAT-BUS port? It's uses some random undocumented protocol some weird guy on the internet put together for a project car. Why do you even have a Honda 39100-SEO-A300-M1?
+Seriously don't build this. By the time this board is printed and you've ordered components it comes up to like $150. It requires hours of soldering and a significant possibility of breaking your radio. How are you even going to use the CAT-BUS port? It uses some random undocumented protocol some weird guy on the internet put together for a project car. Why do you even have a Honda 39100-SEO-A300-M1?
 
 A bluetooth cassette tape will work just as well. Better yet, buy an aftermarket amplifier with bluetooth.
 
