@@ -21,7 +21,9 @@ Attaching this board over parallel to the appropriate Honda radio with correct p
 
 Seriously don't build this. By the time this board is printed and you've ordered components it comes up to like $150. It requires hours of soldering and a significant possibility of breaking your radio. How are you even going to use the CAT-BUS port? It uses some random undocumented protocol some weird guy on the internet put together for a project car. Why do you even have a Honda 39100-SEO-A300-M1?
 
-A bluetooth cassette tape will work just as well. Better yet, buy an aftermarket amplifier with bluetooth.
+A bluetooth cassette tape will work just as well. Does the cassette belt on your 39100-SEO-A300-M1 not work? A PRB SCX 16.0 square cut belt will fit perfectly.
+
+Better yet, buy an aftermarket amplifier with bluetooth.
 
 If you're just looking for a way to attach an amp to your vintage radio, yes this will provide the correct outputs, but there are so many options that are million times easier.
 
