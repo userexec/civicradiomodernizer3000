@@ -1,6 +1,6 @@
 # Civic Radio Modernizer 3000
 
-![board rendering](https://github.com/userexec/civicradiomodernizer3000/blob/main/board.png?raw=true)
+![board rendering](https://github.com/userexec/civicradiomodernizer3000/blob/main/board_assembled.jpg?raw=true)
 
 This package of KiCad files and an Arduino sketch produces a circuit board you don't want. It hijacks the amplifier inputs, source switching functions, and radio preset buttons/LEDs of a Honda 39100-SEO-A300-M1 radio connected to it via a parallel cable. Note that this radio does not have a parallel port (of course it doesn't). You have to chop the cable in half and solder the open end into specific points around the radio, then connect the other end to this board. Power comes over the parallel cable so it's the only required connection--just print a case for it and tuck it behind the dash anywhere it fits.
 
