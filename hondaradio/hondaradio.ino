@@ -4,8 +4,8 @@ int LED3 = 5;
 int LED4 = 4;
 int LED5 = 3;
 int LED6 = 2;
-#define RADIO 12
-#define TAPE  11
+#define RADIO 11
+#define TAPE  12
 #define PLAY  10
 #define PREV  9
 #define NEXT  8
